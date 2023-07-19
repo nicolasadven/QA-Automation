@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>last_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>750f3edd-3cdb-4287-9b0b-c5ebb3a53c95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62742aff-8aed-4e43-b07b-273e4db11710</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62742aff-8aed-4e43-b07b-273e4db11710</id>
+      <masked>false</masked>
+      <name>adven</name>
+   </variable>
+</TestCaseEntity>
