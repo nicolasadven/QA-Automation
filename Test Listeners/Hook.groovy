@@ -34,7 +34,7 @@ class Hook {
 	def closeBrowser() {
 		WebUI.closeBrowser();
 	}
-/*
+
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
 		KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
@@ -46,7 +46,7 @@ class Hook {
 		KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.closeBrowser()
 	}
-*/
+
 	@BeforeTestSuite
 	def beforeTestSuite(TestSuiteContext testSuiteContext) {
 		KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
